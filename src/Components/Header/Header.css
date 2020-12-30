@@ -9,7 +9,7 @@
 }
 
 .header__logo {
-    width: 100px;
+    width: 120px;
     object-fit: contain;
     margin: 0 20px;
     margin-top: 15px;
@@ -37,6 +37,7 @@
 
 .header_navbar{
     display: flex;
+    width: 350px;
     justify-content: space-evenly;
 }
 
