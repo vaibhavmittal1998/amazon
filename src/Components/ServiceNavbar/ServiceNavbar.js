@@ -8,8 +8,8 @@ function ServiceNavbar() {
             <div className="service__navbar__option_address">
                 <RoomOutlinedIcon />
                 <span className="service_navbar_option_pair">
-                    <span className="service_navbar_option_address_key"> Hello </span>
-                    <span className="service_navbar_option_address_value"> Select your address </span>
+                    <span className="service_navbar_option_address_key"> Your </span>
+                    <span className="service_navbar_option_address_value"> Address </span>
                 </span>
             </div>
 
