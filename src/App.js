@@ -13,7 +13,6 @@ function App() {
         <ServiceNavbar />
         <Switch>
           <Route path="/checkout">
-            <h1>Hello World</h1>
             <Checkout />
           </Route>
           <Route path="/">
